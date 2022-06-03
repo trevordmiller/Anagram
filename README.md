@@ -1,3 +1,3 @@
 # Anagram
 
-A description of this package.
+A package for checking words that might be anagrams.
